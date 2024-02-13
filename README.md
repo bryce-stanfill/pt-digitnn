@@ -1,0 +1,1 @@
+a fun little example of a neural network recognizing handwritten digits from MNIST dataset
